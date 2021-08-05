@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="profile">Profile</string>
+    <string name="name_linux">Distro Name</string>
+    <string name="logo">Distro Logo</string>
+    <string name="popularity_rank">Popularity Rank</string>
+    <string name="linux_info">Basic Information</string>
+    <string name="linux_overview">Overview</string>
+    <string name="title_info">Based on \nOrigin \nArchitecture \nDesktop</string>
+    <string name="linux_overview_content">Short Description</string>
+    <string name="name_me">Bagus Brahmantya Prasetya Gautama</string>
+    <string name="email_me">bagusbpg@gmail.com</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+</resources>
